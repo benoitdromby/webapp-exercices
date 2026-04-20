@@ -1,4 +1,4 @@
-# webapp-exerc
+# webapp-exercises
 ## Getting started
 
 Make sure you have [Docker](https://www.docker.com/products/docker-desktop) installed.
